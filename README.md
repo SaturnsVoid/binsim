@@ -55,3 +55,7 @@ ZIP, GZip, PDF, PNG, JPEG, MP4, SQLite, TAR, …).
 ## Requirements
 
 Python 3.8+ (developed/tested on 3.14). Works offline.
+
+## Screenshots
+  ![Console Screen](Console.png)
+  ![HTML Report](HTML_Report.png)
